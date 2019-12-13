@@ -3,7 +3,7 @@
 V1.8.9
 02-08-2007
 
-Note: this was written back in 2007, and has not been look at again
+**Note: this was written back in 2007, and has not been look at again
 since.
 
 # INTRODUCTION 
