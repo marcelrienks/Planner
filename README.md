@@ -4,7 +4,7 @@ V1.8.9
 02-08-2007
 
 **Note: this was written back in 2007, and has not been look at again
-since.
+since.**
 
 # INTRODUCTION 
 A day planner, allowing you to keep a time sheet of jobs done during
