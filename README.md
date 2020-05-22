@@ -1,5 +1,4 @@
 # Planner
-[![Build Status](https://dev.azure.com/marcelrienks/Planner/_apis/build/status/marcelrienks.Planner?branchName=master)](https://dev.azure.com/marcelrienks/Planner/_build/latest?definitionId=6&branchName=master)  
 V1.8.9
 02-08-2007
 
